@@ -1,1 +1,2 @@
-print("Hello from CI/CD Pipeline")
+def add(a, b):
+    return a + b   # ✅ FIXED
